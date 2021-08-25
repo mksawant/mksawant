@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mksawant
+- 👋 Hi, I’m Mrunal Sawant
 - 👀 I’m interested in Machine Learning algorithms
 - 🌱 I’m currently learning Data Science
 
